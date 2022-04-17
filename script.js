@@ -16,9 +16,9 @@ let songs = [
     {songName: "Girl-I-Need-You-PJ", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Tuj-Mai-Rab-Dikhta-PJ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Kuch-Kuch-Hota-Hai-PJ", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Sajda-PJ", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Mujko-Barsat-Bnalo-PJ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Ishq-Vala-Love-PJ", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
+    {songName: "Mai-Phir-Bhi-Tumko-PJ", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Tere-Naam-PJ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Mai-jis-Bhuladu-PJ", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
     {songName: "0-Sathi-PJ", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
 ]
 
